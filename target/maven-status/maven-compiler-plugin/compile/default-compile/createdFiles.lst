@@ -1,0 +1,13 @@
+com\mycompany\productionline\MultimediaControl.class
+com\mycompany\productionline\AudioPlayer.class
+com\mycompany\productionline\ControllerAudioPlayer.class
+com\mycompany\productionline\Item.class
+com\mycompany\productionline\Driver.class
+com\mycompany\productionline\MonitorType.class
+com\mycompany\productionline\ScreenSpec.class
+com\mycompany\productionline\DriverMovie.class
+com\mycompany\productionline\Productionline.class
+com\mycompany\productionline\ItemType.class
+com\mycompany\productionline\MoviePlayer.class
+com\mycompany\productionline\Product.class
+com\mycompany\productionline\Screen.class
